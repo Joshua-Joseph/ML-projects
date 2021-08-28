@@ -5,4 +5,7 @@
 3. Project 3 - News Classification
 
 
+## other ML projects
+ 1. Facial recognition(PCA & SVM)
+
 ####Projects done in google Colabs
