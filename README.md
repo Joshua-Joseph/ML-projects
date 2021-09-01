@@ -7,5 +7,6 @@
 
 ## Other ML projects
  1. Facial recognition(PCA & SVM)
+ 2. POI identifier (enron dataset)
 
 ####Projects done in google Colabs
